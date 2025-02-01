@@ -1,4 +1,5 @@
 file= open("pg2701.txt",'r')
+
 vowel_count=0
 word_count=0
 content=file.read().split('\n')
